@@ -1,0 +1,7 @@
+echo "# i_sourav_bhatti" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M 'main'
+git remote add origin https://github.com/Verifyme76/i_sourav_bhatti.git
+git push -u origin 'main'
